@@ -1,0 +1,22 @@
+011401 - Modyfikacja statycznej zmiennej składowej przez metody stałe.
+
+130101 - Użycie słowa kluczowego auto. /c++11/ 
+
+160101 - Wstawianie liczb losowych do zbioru std::set
+
+170101 - Makefile na przykładzie programu przedstawiającego wzorzec projektowy adapter /210801/
+
+210101 - Singleton /c++99/
+210102 - Singleton /c++11/
+210201 - Simple Factory 
+210202 - Simple Factory + Polimorfizm
+210301
+210302
+210401
+210402
+210501
+210502
+210503
+210601
+210701
+210801 - Adapter + Delegacja konstruktorów /c++11/
